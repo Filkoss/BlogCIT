@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "root";
-$password = "tvé_heslo"; // nahraď svým skutečným heslem
+$username = "Filip";
+$password = "Filda-*-942703"; // nahraď svým skutečným heslem
 $dbname = "my_blog";
 
 // Vytvoření připojení
